@@ -78,6 +78,9 @@ agenthub/agents/youtube/db
 # Build caches
 .cache/
 
+# Markdown files
+*.md
+
 # Memory / internal agent files
 memory/test_credentials.md
 
